@@ -1,12 +1,12 @@
-##Pomodoro
+## Pomodoro
 Manage focus time with the Pomodoro technique.
-###Keywords:
+### Keywords:
 * Tkinter (GUI)
 * Math
 * OS
 * Global Variables
 * Functions
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

@@ -1,6 +1,6 @@
-##Spotify Music Time Machine
+## Spotify Music Time Machine
 Adding Top 100 songs from Billboard.com from a certain day to users playlist on spotify.
-###Keywords:
+### Keywords:
 * HTTP requests
 * Spotipy (Spotify Library)
 * Webscraping
@@ -8,7 +8,7 @@ Adding Top 100 songs from Billboard.com from a certain day to users playlist on 
 * Collections
 * List Comprehensions
 * Time
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

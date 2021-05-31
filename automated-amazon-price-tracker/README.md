@@ -1,10 +1,10 @@
-##Automated Amazon Price Tracker
+## Automated Amazon Price Tracker
 Check the price of a product on Amazon and notify the user through email, if it falls below a certain value.
-###Keywords:
+### Keywords:
 * Webscraping
 * HTTP requests
 * SMTP (Simple Mail Transfer Protocol)
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

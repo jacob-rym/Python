@@ -1,6 +1,6 @@
-##Quizzler App
+## Quizzler App
 App for answering quiz questions provided by Open Trivia DB API. Questions can be provided from a specific selected category.
-###Keywords:
+### Keywords:
 * HTTP requests
 * HTML
 * Tkinter (GUI)
@@ -9,7 +9,7 @@ App for answering quiz questions provided by Open Trivia DB API. Questions can b
 * Collections
 * JSON
 * OpenTDB API
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

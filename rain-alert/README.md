@@ -1,10 +1,10 @@
-##Rain Alert
+## Rain Alert
 Send informational text messages to a specified number regarding the weather.
-###Keywords:
+### Keywords:
 * HTTP Requests
 * Twilio API (Text Messages)
 * Collections
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

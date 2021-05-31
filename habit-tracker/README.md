@@ -1,11 +1,11 @@
-##Habit Tracker
+## Habit Tracker
 Create and update a habit tracking graph utilizing Pixela API.
-###Keywords:
+### Keywords:
 * HTTP requests
 * Pixela API (Habit Tracking)
 * Collections
 * Time
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

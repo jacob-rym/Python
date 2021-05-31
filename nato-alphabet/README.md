@@ -1,13 +1,13 @@
-##NATO Alphabet
+## NATO Alphabet
 Convert words and phrases to NATO phonetic alphabet.
-###Keywords:
+### Keywords:
 * PANDAS (Data manipulation)
 * CSV (comma-separated values)
 * Functions
 * Exceptions
 * Collections
 * Comprehensions
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza

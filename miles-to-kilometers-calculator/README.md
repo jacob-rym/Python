@@ -1,8 +1,8 @@
-##Miles to Kilometers Calculator
+## Miles to Kilometers Calculator
 Convert miles to kilometers utilizing a Graphical User Interface.
-###Keywords:
+### Keywords:
 * Tkinter (GUI)
-###Course:
+### Course:
 "100 Days of Code" by Dr. Angela Yu
-###Coded by:
+### Coded by:
 Jacob Rymsza
